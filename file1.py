@@ -1,5 +1,6 @@
 import numpy as np
 
+#注释
 tf=open("f.txt")
 ls=[]
 i=1
